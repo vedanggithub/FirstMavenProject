@@ -18,4 +18,3 @@ public class AppleTest {
 //git commit -m"message" - it will cmmit files from staging area to locla repo
 //git push origin master - pusing files to gituhub// origin - gituhub repo path
 //
-//
